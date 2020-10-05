@@ -1,0 +1,5 @@
+1. Instalar node.js | https://nodejs.org/en/
+2. Instalar puppeteer | npm i puppeteer-core
+3. git clone https://github.com/flpfontes/buscar-dados-portal-transparencia-jaboticabal.git
+4. cd buscar-dados-portal-transparencia-jaboticabal
+5. node index.js
